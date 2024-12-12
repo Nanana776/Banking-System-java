@@ -72,11 +72,11 @@ Compute and apply interest for SavingsAccount objects.
 7. Menu and Workflow
 These are the options that users should be prompted to select what they want to do:
 
-1. Create Account
+<1. Create Account
 2. View Account Details
 3. Deposit Money
 4. Withdraw Money
 5. Transfer Money
 6. Calculate Interest (Savings Account)
-7. Exit
+7. Exit>
 
